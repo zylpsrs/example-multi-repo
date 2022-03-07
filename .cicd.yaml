@@ -1,9 +1,3 @@
 global:
   detect: false
   rtype: multi
-service:
-  __cur__:
-    btype: dkf
-    dflag:
-    - Dockerfile
-    img: registry.app.caas.zyl.cn/example/example-multi-repo:master.9ff5ea125e
